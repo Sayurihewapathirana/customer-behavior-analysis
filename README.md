@@ -44,7 +44,7 @@ Python: Pandas, NumPy, Matplotlib
 
 Jupyter Notebook: Data cleaning and exploratory data analysis (EDA)
 
-SQL: PostgreSQL / MySQL / SQL Server
+SQL: PostgreSQL
 
 Power BI: Interactive dashboard creation
 
